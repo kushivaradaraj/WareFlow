@@ -145,12 +145,3 @@ ORD002,2025-03-24,P002,750,2025-03-25,Urgent,1.3521,103.8198
 ---
 
 
-
-## 📜 License
-
-Licensed under the **MIT License**.  
-See the `LICENSE` file for more details.
-
----
-
-**Built with 💡 and ☕ by Kushi Varadaraj**
