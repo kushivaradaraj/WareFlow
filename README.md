@@ -144,25 +144,7 @@ ORD002,2025-03-24,P002,750,2025-03-25,Urgent,1.3521,103.8198
 
 ---
 
-## 🤝 Contributing
 
-All contributions are welcome—whether it's fixing bugs, improving UI, or adding new features!
-
-1. Fork the project  
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add: YourFeatureName"
-   ```
-4. Push and open a pull request:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
----
 
 ## 📜 License
 
